@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/profiles-react/static/css/main.a24ff15f.css",
+    "main.js": "/profiles-react/static/js/main.6489a33b.js",
+    "static/js/787.a827703b.chunk.js": "/profiles-react/static/js/787.a827703b.chunk.js",
+    "static/media/JakeRJS.webp": "/profiles-react/static/media/JakeRJS.254039300e9725041b9c.webp",
+    "static/media/Swe_P.webp": "/profiles-react/static/media/Swe_P.ecc2fbcabf710e6d22a8.webp",
+    "static/media/Princess_bubblegum_in_dress_special_alarm_color.webp": "/profiles-react/static/media/Princess_bubblegum_in_dress_special_alarm_color.7555a5924d2d58636409.webp",
+    "static/media/Marcysuit_PrincessDay.webp": "/profiles-react/static/media/Marcysuit_PrincessDay.1eaf644e5a3cadac02c0.webp",
+    "static/media/Gunter3.webp": "/profiles-react/static/media/Gunter3.0fbc2e8683617582d198.webp",
+    "index.html": "/profiles-react/index.html",
+    "main.a24ff15f.css.map": "/profiles-react/static/css/main.a24ff15f.css.map",
+    "main.6489a33b.js.map": "/profiles-react/static/js/main.6489a33b.js.map",
+    "787.a827703b.chunk.js.map": "/profiles-react/static/js/787.a827703b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24ff15f.css",
+    "static/js/main.6489a33b.js"
+  ]
+}
